@@ -1,4 +1,1 @@
-openai
 httpx==0.27.2
-python-telegram-bot
-python-dotenv
